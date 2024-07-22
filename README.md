@@ -1,6 +1,10 @@
-# Welcome to your Expo app 👋
+# Welcome! 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+The aim of this project was to create a web browser for mobile devices, which was simple but allowed the use of different technologies and libraries.
+
+In this project, in addition to Expo/React Native and its standard libraries, resources with NativeWind were used; expo-clipboard and react-native-web-view.
 
 ## Get started
 
